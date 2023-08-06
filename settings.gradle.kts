@@ -3,4 +3,4 @@ plugins {
 }
 
 rootProject.name = "Ktord"
-include("Core")
+include("ktord-core")
